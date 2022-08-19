@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cuentaCartas/static/css/main.e0dbb55b.css",
+    "main.js": "/cuentaCartas/static/js/main.045866ab.js",
+    "static/js/787.75d67239.chunk.js": "/cuentaCartas/static/js/787.75d67239.chunk.js",
+    "index.html": "/cuentaCartas/index.html",
+    "main.e0dbb55b.css.map": "/cuentaCartas/static/css/main.e0dbb55b.css.map",
+    "main.045866ab.js.map": "/cuentaCartas/static/js/main.045866ab.js.map",
+    "787.75d67239.chunk.js.map": "/cuentaCartas/static/js/787.75d67239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0dbb55b.css",
+    "static/js/main.045866ab.js"
+  ]
+}
